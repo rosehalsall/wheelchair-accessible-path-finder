@@ -1,0 +1,5 @@
+No Grass
+No Cobbles
+Wide Paths
+No Gravel
+No Curbs (higher than 1 inch)
